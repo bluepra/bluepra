@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🖥 I am studying Computer Science and Data Science
 - 🧐 I am interested in Robotics, Computer Vision, Machine Learning
 - ⚙️ I’m currently working on a personal website 
-- 🌳 I’m currently learning Javascript and Astro
+- 🌳 I’m currently learning Javascript and React
 - 🔥 My recent projects are: [RobotArm](https://github.com/bluepra/RobotArm) and [PongVision](https://github.com/bluepra/PongVision)  
   
   
